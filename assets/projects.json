@@ -1,0 +1,67 @@
+{
+  "projects":[
+    {
+      "name": "Madrasa Online",
+      "desc": "Madrasa online ia a Elearning-platform that mange your courses , your students and subscription in courses",
+      "image": "assets/images/madrasaonline (1).png",
+      "category": "Angular",
+      "links": {
+        "view": "https://madrasa-online-app.vercel.app/#/home",
+        "code": "https://github.com/BassamRamadan2611/MadrasaOnline-"
+      }
+    },
+    {
+      "name": "Online Store",
+      "desc": "Online Store is an e-commerce-app that displaying products ,search by category or product name , you can add to cart .",
+      "image": "assets/images/onlineStore (1).png",
+      "category": "Angular",
+      "links": {
+        "view": "https://ecommerce-app-bassamramadan2611.vercel.app/products",
+        "code": "https://github.com/BassamRamadan2611/EcommerceApp"
+      }
+    },
+    {
+      "name": "Islam Baic",
+      "desc": "Islam Basic is an angular app for  quraan written surahs , quran audio surahs , all about hadith , Azkar , and prayer times",
+      "image": "assets/images/islam-basic.jpg.png",
+      "category": "Angular",
+      "links": {
+        "view": "https://islam-basic.vercel.app/home",
+        "code": "https://ecommerce-app-bassamramadan2611.vercel.app/products"
+      }
+    },
+    {
+      "name": "Angular-crud-App",
+      "desc": "Recipe is an angular crud app , you can retrieve ,add,update and delete Recipe , we applied Authentication",
+      "image": "assets/images/recipe.png",
+      "category": "Angular",
+      "links": {
+        "view": "https://recipe-book-five.vercel.app/recipes",
+        "code": "https://github.com/BassamRamadan2611/Angular-Crud-App"
+      }
+    },
+    {
+      "name": "Movie App",
+      "desc": "Movie is an angular app that displaying movies ,trending movies ,search about certain movie with applies pagination to show multi page",
+      "image": "assets/images/movie.png",
+      "category": "Angular",
+      "links": {
+        "view": "https://angular-movie-app.vercel.app/",
+        "code": "https://github.com/BassamRamadan2611/angular-movie-app"
+      }
+    },
+    {
+      "name": "Quiz App",
+      "desc": "is an  angular app that displaying subjects ,quiz for certain subject and your result ,contolling for admin on students and their results",
+      "image": "assets/images/quiz.png",
+      "category": "Angular",
+      "links": {
+        "view": "https://quiz-app-gold-zeta.vercel.app/login",
+        "code": "https://github.com/BassamRamadan2611/QuizAPP"
+      }
+    }
+
+
+
+  ]
+}
